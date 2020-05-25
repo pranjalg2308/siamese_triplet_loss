@@ -1,6 +1,6 @@
 # Siamese Network with Triplet Loss
 
-This repository is an implemenation of following medium story --[Illustrated Guide to Siamese Network](https://medium.com/@pranjalg2308/illustrated-guide-to-siamese-network-3939da1b0c9d). 
+This repository is an implemenation of following medium story --[Illustrated Guide to Siamese Network](https://medium.com/@pranjalg2308/illustrated-guide-to-siamese-network-3939da1b0c9d?sk=cb531cf988a4c9bf83e03c388261ae6d). 
 This project implements siamese network with triplet loss using cosine and L2 loss function. 
 
 # Requirements
